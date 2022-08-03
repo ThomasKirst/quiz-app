@@ -1,0 +1,9 @@
+.nav {
+  background: rebeccapurple;
+  display: flex;
+  gap: 10px;
+}
+
+.nav a {
+  color: white;
+}
